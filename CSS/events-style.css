@@ -392,6 +392,11 @@ section h2{
   border-top-right-radius: 5px;
   border-bottom-right-radius: 5px;
   cursor: pointer;
+  transition: all .3s linear;
+}
+
+.container .all-content1 .ri-search-eye-line:hover{
+    background-color: var(--btn-hover);
 }
 
 .container .content .cetagory-1{
